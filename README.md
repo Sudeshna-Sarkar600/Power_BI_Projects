@@ -1,1 +1,1 @@
-This is a Power BI end-to-end project
+This is a Power BI end-to-end Project folder
